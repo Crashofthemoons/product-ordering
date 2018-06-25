@@ -1,0 +1,17 @@
+
+#mainContent {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.all-products {
+    display: flex;
+    margin: 45px;
+}
+
+.img {
+    height: 150px;
+    width: auto;
+}
